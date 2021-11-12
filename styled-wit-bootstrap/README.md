@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mariamALLI/3column-card.git  )
+- Solution URL: [Add solution URL here](https://github.com/mariamALLI/styled-wit-bootstrap.git  )
 - Live Site URL: [Add live site URL here](https://styled-wit-bootstrap.netlify.app/)
 
 ## My process
